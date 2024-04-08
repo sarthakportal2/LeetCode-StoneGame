@@ -1,2 +1,2 @@
 # LeetCode-StoneGame
-LeetCode StoneGame Submmision:https://leetcode.com/submissions/detail/1226485199/
+LeetCode StoneGame Submission:https://leetcode.com/submissions/detail/1226485199/
